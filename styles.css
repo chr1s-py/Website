@@ -24,8 +24,9 @@ body {
 
     background-image: url('Public/appealing-data-center-design-9hwmiruq23wfv6pv.jpg');
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     background-repeat: no-repeat;
+    background-attachment: fixed; /* fix on scroll */
 }
 
 h1 {
